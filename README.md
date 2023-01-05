@@ -10,7 +10,7 @@
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jekiekolya) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekiekolya&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekiekolya&layout=compact)
 
 
 
@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jekiekolya)
 -->
