@@ -8,6 +8,9 @@
 - ⚡ My status: Now I am looking for a new position in the company where I want to grow together. [My CV](https://drive.google.com/file/d/1CrxmsVLI8_qOvNwRUrxIYoxntPTKcvKs/view?usp=sharing)
 - 📫 How to reach me: [Telegram](https://t.me/jekiekolya), [Linkedin](https://www.linkedin.com/in/mykola-berezhniuk/)
 
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jekiekolya) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekiekolya&layout=compact)
 
 
 
