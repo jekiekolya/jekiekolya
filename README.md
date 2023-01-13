@@ -12,6 +12,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekiekolya&layout=compact)
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jekiekolya&theme=react&line_height=40&hide=css"/> </a>
+
 
 
 <!--
