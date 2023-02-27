@@ -8,7 +8,7 @@
    &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" width="40"/> &nbsp; 
    <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="40"/> &nbsp;
    <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="45"/> 
-    &nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" alt="jest" width="40"/> &nbsp; <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40"/> 
+    &nbsp; <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40"/> 
 
 - ⚡ My status: Now I am looking for a new position in the company where I want to grow together. [My CV](https://drive.google.com/file/d/1CrxmsVLI8_qOvNwRUrxIYoxntPTKcvKs/view?usp=sharing)
 - 📫 How to reach me: [Telegram](https://t.me/jekiekolya), [Linkedin](https://www.linkedin.com/in/mykola-berezhniuk/)
