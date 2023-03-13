@@ -16,7 +16,7 @@
 ## Stats
 
 
-
+<img src="https://komarev.com/ghpvc/?username=jekiekolya&style=flat-square&color=blue" alt=""/>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jekiekolya&layout=compact"/> </a>
 
 
