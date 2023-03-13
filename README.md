@@ -16,13 +16,15 @@
 ## Stats
 
 
-<img src="https://komarev.com/ghpvc/?username=jekiekolya&style=flat-square&color=blue" alt=""/>
+
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jekiekolya&layout=compact"/> </a>
 
 
 
 <!--
 **jekiekolya/jekiekolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://komarev.com/ghpvc/?username=jekiekolya&style=flat-square&color=blue" alt=""/>
 
 Here are some ideas to get you started:
 
