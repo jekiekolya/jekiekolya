@@ -10,7 +10,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="Next.js" width="45"/> 
     &nbsp; <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40"/> 
 
-- ⚡ My status: Now I am looking for a new position in the company where I want to grow together. [My CV](https://drive.google.com/file/d/1CrxmsVLI8_qOvNwRUrxIYoxntPTKcvKs/view?usp=sharing)
+- ⚡ My status: Junior developer in company Inforce
 - 📫 How to reach me: [Telegram](https://t.me/jekiekolya), [Linkedin](https://www.linkedin.com/in/mykola-berezhniuk/)
 
 ## Stats
@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- ⚡ My status: Now I am looking for a new position in the company where I want to grow together. [My CV](https://drive.google.com/file/d/1CrxmsVLI8_qOvNwRUrxIYoxntPTKcvKs/view?usp=sharing)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
