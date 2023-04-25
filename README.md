@@ -10,7 +10,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="Next.js" width="45"/> 
     &nbsp; <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40"/> 
 
-- ⚡ My status: Junior developer in company Inforce
+- ⚡ My status: Developer in the company Inforce
 - 📫 How to reach me: [Telegram](https://t.me/jekiekolya), [Linkedin](https://www.linkedin.com/in/mykola-berezhniuk/)
 
 ## Stats
